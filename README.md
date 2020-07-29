@@ -4,7 +4,7 @@
 
 
 
-## Find me around the web 🌎: <a href="https://github.com/sponsors/egillanton"><img align="left" width="150" height="150" src="https://user-images.githubusercontent.com/9976294/88789099-d43f5f80-d185-11ea-81cc-4ac77ef80c2d.gif?raw=true"></a>
+## Find me around the web 🌎: <a href="https://github.com/sponsors/egillanton"><img align="left" width="150" height="150" src="https://user-images.githubusercontent.com/9976294/88792901-84639700-d18b-11ea-94d8-e059916059e0.gif?raw=true"></a>
 - [💼 LinkedIn](https://www.linkedin.com/in/egillanton/)  
 - [🦊 GitLab](https://gitlab.com/egillanton)
 
