@@ -1,6 +1,6 @@
 # Hi there, I'm Egill 👋
 
-<img src="https://user-images.githubusercontent.com/9976294/88795795-1ec5d980-d190-11ea-8068-0ee80d2f4213.png" alt="banner that says Egill Anton Hlöðversson, entrepreneur, software developer and researcher">
+<img src="https://user-images.githubusercontent.com/9976294/89165434-142c8b00-d568-11ea-8358-306b6b1c31f5.png" alt="banner that says Egill Anton Hlöðversson, entrepreneur, software developer and researcher">
 
 
 
