@@ -37,7 +37,7 @@
 <p>(An ever-updating list!)</p>
 <h3>Languages</h3>
 <p>
-    <a href="">
+    <a href="https://www.javascript.com/" target="_blank">
         <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
             alt="javascript"
@@ -45,7 +45,7 @@
             width="30"
         >
     </a>
-    <a href="https://www.typescriptlang.org/">
+    <a href="https://www.typescriptlang.org/" target="_blank">
         <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
             alt="typescript"
@@ -53,7 +53,7 @@
             width="30"
         >
     </a>
-    <a href="">
+    <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank">
         <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
             alt="csharp"
@@ -61,7 +61,7 @@
             width="30"
         >
     </a>
-    <a href="https://www.python.org/">
+    <a href="https://www.python.org/" target="_blank">
         <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
             alt="python"
@@ -69,7 +69,7 @@
             width="30"
         >
     </a>
-    <a href="https://www.php.net/">
+    <a href="https://www.php.net/" target="_blank">
         <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
             alt="php"
@@ -77,7 +77,7 @@
             width="30"
         >
     </a>
-    <a href="https://www.groovy-lang.org/">
+    <a href="https://www.groovy-lang.org/" target="_blank">
         <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/groovy/groovy-original.svg"
             alt="groovy"
@@ -85,7 +85,7 @@
             width="30"
         >
     </a>
-    <a href="https://www.w3schools.com/Css/">
+    <a href="https://www.w3schools.com/Css/" target="_blank"
         <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
             alt="css3"
@@ -93,7 +93,7 @@
             width="30"
         >
     </a>
-    <a href="https://sass-lang.com/">
+    <a href="https://sass-lang.com/" target="_blank">
         <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"
             alt="sass"
@@ -101,7 +101,7 @@
             width="30"
         >
     </a>
-    <a href="">
+    <a href="http://json.com/" target="_blank">
         <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg"
             alt="json"
@@ -112,7 +112,7 @@
 </p>
 <h3>Frameworks/Runtimes</h3>
 <p>
-    <a href="">
+    <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/mvc" target="_blank">
         <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg"
             alt="dot net"
@@ -120,7 +120,7 @@
             width="30"
         >
     </a>
-    <a href="">
+    <a href="https://nextjs.org/" target="_blank">
         <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
             alt="NextJs"
@@ -128,7 +128,7 @@
             width="30"
         >
     </a>
-    <a href="">
+    <a href="https://www.djangoproject.com/"  target="_blank">
         <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"
             alt="django"
@@ -136,7 +136,7 @@
             width="30"
         >
     </a>
-    <a href="">
+    <a href="https://www.sanity.io/" target="_blank">
         <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sanity/sanity-original.svg"
             alt="sanity"
@@ -147,7 +147,7 @@
 </p>
 <h3>Databases</h3>
 <p>
-    <a href="">
+    <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank">
         <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
             alt="mssql"
@@ -155,7 +155,7 @@
             width="30"
         >
     </a>
-    <a href="">
+    <a href="https://www.postgresql.org/" target="_blank">
         <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
             alt="postgresql"
@@ -171,7 +171,7 @@
             width="30"
         >
     </a>
-    <a href="">
+    <a href="https://supabase.com/" target="_blank">
         <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg"
             alt="firebase"
@@ -182,7 +182,7 @@
 </p>
 <h3>Tools/Platforms</h3>
 <p>
-    <a href="">
+    <a href="https://visualstudio.microsoft.com/" target="_blank">
         <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg"
             alt="visualstudio"
@@ -190,7 +190,7 @@
             width="30"
         >
     </a>
-    <a href="">
+    <a href="https://code.visualstudio.com/" target="_blank">
         <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
             alt="vscode"
@@ -198,7 +198,7 @@
             width="30"
         >
     </a>
-    <a href="">
+    <a href="https://www.postman.com/" target="_blank">
         <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
             alt="postman"
@@ -206,7 +206,7 @@
             width="30"
         >
     </a>
-    <a href="">
+    <a href="https://git-scm.com/" target="_blank">
         <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
             alt="git"
@@ -214,7 +214,7 @@
             width="30"
         >
     </a>
-    <a href="">
+    <a href="https://tortoisesvn.net/" target="_blank">
         <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/subversion/subversion-original.svg"
             alt="subversion"
@@ -222,7 +222,7 @@
             width="30"
         >
     </a>
-    <a href="">
+    <a href="https://www.sourcetreeapp.com/" target="_blank">
         <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sourcetree/sourcetree-original-wordmark.svg"
             alt="sourcetree"
@@ -230,7 +230,7 @@
             width="30"
         >
     </a>
-    <a href="">
+    <a href="https://www.google.com/chrome/" target="_blank">
         <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg"
             alt="chrome"
