@@ -239,4 +239,10 @@
         >
     </a>
 </p>
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=egillanton.egillanton)
+<h2>Random Stats</h2>
+<p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=egillanton&theme=nightowl" alt="egillanton">
+</p>
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=egillanton&show_icons=true&theme=nightowl&locale=en&layout=compact" alt="egillanton">
+</p>
