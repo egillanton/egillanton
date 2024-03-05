@@ -163,7 +163,7 @@
             width="30"
         >
     </a>
-    <a href="">
+    <a href="https://supabase.com/">
         <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg"
             alt="supabase"
@@ -171,7 +171,7 @@
             width="30"
         >
     </a>
-    <a href="https://supabase.com/" target="_blank">
+    <a href="https://firebase.google.com/" target="_blank">
         <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg"
             alt="firebase"
