@@ -241,8 +241,8 @@
 </p>
 <h2>Random Stats</h2>
 <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=egillanton&theme=nightowl" alt="egillanton">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=egillanton&theme=blue-green" alt="egillanton">
 </p>
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=egillanton&show_icons=true&theme=nightowl&locale=en&layout=compact" alt="egillanton">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=egillanton&show_icons=true&theme=blue-green&locale=en&layout=compact" alt="egillanton">
 </p>
