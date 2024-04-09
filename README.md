@@ -1,17 +1,15 @@
-<h1 align="center">
-    Hey there! I'm
-    <a href="https://egillanton.dev" target="_blank">Egill Anton</a>
-</h1>
-<h3 align="center">Expert in crafting plugins and applications for e-commerce platforms, with a strong foundation in financial and accounting integration.</h3>
-<p>
-    An accomplished web developer with extensive experience in developing sophisticated plugins and apps tailored for e-commerce platforms such as WordPress, Shopify, Zapier and more.
-</p>
-<p>
-    Specializing in the seamless integration of complex financial services and accounting systems to optimize business processes, enhance user experience, and ensure secure transactions.
-</p>
-<p>
-    Combines strategic problem-solving skills with a comprehensive technical toolkit to address and solve challenging integration issues effectively.
-</p>
+# 🚀 Egill Anton Hlöðversson
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00E0E5&random=false&width=435&lines=%F0%9F%92%A1+Innovate.;%E2%9C%A8+Inspire.;%F0%9F%94%A5+Ignite." alt="Typing SVG" /></a>
+
+**`Integration Craftsman & Web Ninja 🥷`**
+
+* 🌍 I'm based in Georgia 🇬🇪
+* ✉️ You can contact me at [egillanton@gmail.com](mailto:egillanton@gmail.com)
+* 🧠 Languages I learn or master: JavaScript, TypeScript, C#
+* 🤔 My other software related interests: React, 🧩 Microservices, 🧪 TDD, 🏗️ DDD, 🤖 AI & LLMs
+* ⚡ League of Legends player
+
 <h2 align="left">Connect with me:</h2>
 <p align="left">
     <a href="https://linkedin.com/in/egillanton" target="blank">
