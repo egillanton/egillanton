@@ -5,6 +5,7 @@
 **`Integration Craftsman & Web Ninja 🥷`**
 
 * 🌍 I'm based in Georgia 🇬🇪
+* 🚀  I'm currently working on [ExTalenta - Talent Acquisition Agency](http://extalenta.com)
 * ✉️ You can contact me at [egillanton@gmail.com](mailto:egillanton@gmail.com)
 * 🧠 Languages I learn or master: JavaScript, TypeScript, C#
 * 🤔 My other software related interests: React, 🧩 Microservices, 🧪 TDD, 🏗️ DDD, 🤖 AI & LLMs
