@@ -26,7 +26,7 @@
 - 💼 I'm currently working on: **💻 Developing a new payment portal / dashboard using React and Next.js**
 - 🌱 I'm currently learning: **📚 Exploring Deno V2**
 - 💬 Ask me about: **💡 JavaScript, React, Node.js, Firebase, Building Integrations and System Automations**
-- ⚡ Fun fact: **🌙 I use dark theme UI, ✌️2 monitors is my optimal setup, and I have a 🎴Pokémon TCG collection**
+- ⚡ Fun facts: **🌙 I use dark theme UI, ✌️2 monitors is my optimal setup, and I have a 🎴Pokémon TCG collection**
 
  **<h3 align="left">Skills</h3>**
 
